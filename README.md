@@ -1,0 +1,2 @@
+# master.com
+blog test
